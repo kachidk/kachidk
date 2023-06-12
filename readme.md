@@ -1,9 +1,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Victor+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Victor and Welcome to my Profile!" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
+<p>
+🌱 I’m a full-stack Software Developer
+<br>
+💻 Stack: PHP Typescript, Javascript and C#
+<br>
+💼 Currently working on Finder - A mobile app to find services with ease
+</p>
 
-🌱 I’m a full-stack Software Developer<br>💻 Stack: PHP Typescript, Javascript and C#<br>💼
-Currently working on Finder - A mobile app to find services with ease
-
+<br/>
 <br/>
 
 <div align="center">
@@ -11,11 +16,12 @@ Currently working on Finder - A mobile app to find services with ease
 <p><a href="https://linkedin.com/in/nwanguma"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://dev.to/kachidk"><img src="https://img.shields.io/badge/Dev.to-12100E?logo=dev.to&amp;logoColor=white" alt="Dev.to"></a> <a href="https://stackoverflow.com/users/17626989"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow"></a> <a href="https://twitter.com/nwanguma_swe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> </p>
 </div>
 <br/>
+<br/>
 <div align="center">
   <h2 id="-tech-stack-">💻 Tech Stack:</h2>
-<img src="./assets/borderseparator.gif" width="100%"/>
-<br>
-<br>
+  <img src="./assets/borderseparator.gif" width="100%"/>
+  <br/>
+  <br/>
   <p>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
@@ -37,9 +43,12 @@ Currently working on Finder - A mobile app to find services with ease
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
 </div>
 <br>
+<br/>
 
 <div align="center">
-  <h2> <strong>🚀 Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2>
+  <h2>🚀 Github Stats</h2>
+  <img src="./assets/borderseparator.gif"/>
+  <br/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=kachidk&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
   <br/><br/>
